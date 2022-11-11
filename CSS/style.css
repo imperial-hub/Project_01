@@ -27,8 +27,7 @@
 }
 #connect.vyom{
     height: fit-content;
-    transform: translate(55vw,20vh);
-
+    transform: translate(55vw,20vh); 
 }
 #connect_text.vyom{
     color:#9340FF;
