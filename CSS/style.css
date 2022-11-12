@@ -60,6 +60,78 @@
     padding-left: 0;
 }
 
+
+#divs.vishal{
+    display: flex;
+}
+#imgf.vishal{
+    height: 30vh;
+    width: 25vw;
+}
+#image.vishal
+{
+    transform: translate(25vw,35vh);
+}
+#text_container.vishal
+{
+transform: translate(30vw,35vh);
+}
+#heading.vishal
+{
+     
+}
+
+
+
+
+
+#divs.aaruhi{
+    display: flex;
+}
+#logoplusname.aaruhi{
+    position: absolute;
+    transform: translate()
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
      /* Responsive code for phones  */
 @media only screen and (max-width: 700px) {
     *{
