@@ -60,7 +60,7 @@
     padding-left: 0;
 }
 
-
+     /* Responsive code for phones  */
 @media only screen and (max-width: 1200px) {
     #logoplusname.vyom {
         position: absolute;
