@@ -190,4 +190,27 @@ transform: translate(20vw,30vh);
         font-size: 5vh;
         padding-bottom: 4vh;
     }
+    #image.vishal
+    {
+        transform: translate(5vw,7vh);
+        height: 50vh;
+    }
+    
+    #imgf.vishal
+    {
+        height: 33vh;
+    } 
+    #text_container.vishal{
+      position: absolute;
+        transform: translate(10vw,50vh);
+        text-align: center;
+    }
+    #paragraph.vishal
+    {
+        font-size: 2vh;
+    }
+    #heading.vishal
+    {
+        font-size: 7vh;
+    }
 }
