@@ -1,22 +1,40 @@
+#khantal1.vanshita1
+{
+    color:white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:190%;
+    text-align:center;
+}
+#khantal2.vanshita2
+{
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:180%;
+text-align:center;
+}
+#khantal.v_k
+{
+    color:indigo;
+}
 #khare1.ritik1{
     color: purple;
-    font-size: 100px;
+    font-size: 5vw;
 }
 #khare.ritik{
-    height: 700px;
-    border-radius: 8px;
-    margin-right: 500px;
+    height: 70vh;
+    border-radius: 5vh;
+    margin-right: 50vh;
     margin-top: 0;
 }
 #khare2.ritik2{
-    margin-top: 50px;
-    font-size: 40px;
+    margin-top: 5vh;
+    font-size: 2vw;
     font-weight: 800;
     color: white;
 }
 .ritik_khare{
-    margin-left: 100px;
-    margin-top: 50px;
+    margin-left: 1vw;
+    margin-top: 2vw;
 }
 * {
     padding: 0;
@@ -212,5 +230,13 @@ transform: translate(20vw,30vh);
     #heading.vishal
     {
         font-size: 7vh;
+    }
+
+    #khare2.ritik2{
+        font-size: 2vh; 
+       }
+       #khare.ritik{
+        transform: translate(5vw,7vh);
+        height: 40vh;
     }
 }
