@@ -198,11 +198,11 @@ transform: translate(20vw,30vh);
     
     #imgf.vishal
     {
-        height: 33vh;
+        height: 27vh;
     } 
     #text_container.vishal{
       position: absolute;
-        transform: translate(10vw,50vh);
+        transform: translate(3vw,50vh);
         text-align: center;
     }
     #paragraph.vishal
