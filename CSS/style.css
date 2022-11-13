@@ -138,17 +138,34 @@ transform: translate(20vw,30vh);
     position: absolute;
     transform: translate()
 }
+#divs.prajapati{
+    display: flex;
+}
 #heading.prajapati{
     color:#9340FF;
-    font-size:50 ;
+    font-size:9vh;
 }
 #paragraph.prajapati{
     color: rgb(238, 238, 238);
-    font-size:50;
+    font-size:3vh;
+}
+#text.prajapati{
+    transform: translate(10vw,30vh);
+}
+#image.prajapati{
+     transform:translate(20vw,45vh);
 }
 #img.prajapati{
-    width:10 ;
+    height:45vh;
 }
+#img.prajapati{
+    border-radius:55px;
+}
+
+
+
+
+
 
 
 
