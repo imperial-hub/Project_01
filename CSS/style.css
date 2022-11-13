@@ -264,17 +264,18 @@
     }
 
     #image.vishal {
-        transform: translate(10vw, 7vh);
-        height: 50vh;
+        transform: translate(10vw, 10vh);
     }
 
     #imgf.vishal {
-        height: 30vh;
+        width: 80vw;
+        height: auto;
     }
 
     #text_container.vishal {
+        width: 90vw;
         position: absolute;
-        transform: translate(10vw, 50vh);
+        transform: translate(5vw, 50vh);
         text-align: center;
     }
 
@@ -291,13 +292,12 @@
     }
 
     #khare2.ritik2 {
-        height: 30vh;
-        margin-top: 30vh;
-        margin-left: 0vh;
+        width: 80vw;
+        height: auto;
     }
     #img.ritik2{
         position: absolute;
-        transform: translate(10vh,40vw);
+        transform: translate(10vw,60vh);
     }
     #khare.ritik {
         position: absolute;
