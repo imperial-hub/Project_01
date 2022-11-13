@@ -22,24 +22,25 @@ text-align:center;
     color:#9340FF;
 }
 #khare1.ritik1{
-    color: #9340FF;
-    font-size: 5vw;
+    color: purple;
+    font-size: 4vh;
+    /* display: flex; */
 }
 #khare.ritik{
-    height: 70vh;
-    border-radius: 5vh;
-    margin-right: 50vh;
-    margin-top: 0;
+   color: white;
+   font-size: 3vh;
+   transform: translate(10vw,20vh);
+   /* display: flex; */
+}
+#img.ritik2{
+    transform: translate(20vw,20vh);
 }
 #khare2.ritik2{
-    margin-top: 5vh;
-    font-size: 2vw;
-    font-weight: 800;
-    color: white;
+  height:50vh;
+  border-radius: 5vh;
 }
-.ritik_khare{
-    margin-left: 1vw;
-    margin-top: 2vw;
+.r_k{
+   display: flex;
 }
 
 #divs {
@@ -260,11 +261,17 @@ transform: translate(20vw,30vh);
         font-size: 7vh;
     }
 
+    #khare1.ritik1{
+        font-size: 5vw;
+    }
+    
     #khare2.ritik2{
-        font-size: 2vh; 
-       }
-       #khare.ritik{
-        transform: translate(5vw,7vh);
-        height: 40vh;
+        height:30vh;
+        margin-top: 30vh;
+        margin-left: 0vh;
+    }
+    #khare.ritik
+    {
+        font-size: 4vw;
     }
 }
