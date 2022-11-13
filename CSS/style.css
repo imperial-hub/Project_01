@@ -11,13 +11,15 @@
     font-size: 5vh;
     text-align: center;
 }
-#mid.vanshita{
+
+#mid.vanshita {
     width: auto;
-    transform: translate(0vw,15vh);
+    transform: translate(0vw, 15vh);
 }
+
 #khantal2.vanshita2 {
     width: auto;
-    
+
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 3vh;
@@ -148,11 +150,55 @@
     display: flex;
 }
 
-#logoplusname.aaruhi {
-    position: absolute;
-    transform: translate()
+#image.aaruhi {
+    height: 50vh;
 }
 
+#logoplusname.aaruhi {
+    position: absolute;
+    transform: translate(5vw, 5vh);
+    height: 25vh;
+    display: flex;
+    color: white;
+}
+
+#Always_Stay_Connected.aaruhi {
+    font-size: 6vh;
+    transform: translate(5vw, 35vh);
+    color: white;
+}
+#logo.aaruhi {
+    height: 50px;
+    padding-right: 1vw;
+}
+#bt.aaruhi{
+    display: absolute;
+    transform: translate(-29vw,80vh);
+}
+#kinnectric.aaruhi {
+    padding-left: 20px;
+    font-size: 6vh;
+    color: #ffffff;
+}
+
+#content.aaruhi {
+    color: #ffffff;
+}
+
+#button.aaruhi {
+    background-image: linear-gradient(90deg,#9340FF , rgb(235, 85, 85));
+    color: white;
+    width: 15vw;
+    height: 9vh;
+    font-size: 3vh;
+    border-radius: 4vh;
+}
+#img.aaruhi{
+    transform: translate(0vw,25vh);
+}
+#image.aaruhi{
+    border-radius: 5vh;
+}
 #divs.prajapati {
     display: flex;
 }
@@ -295,13 +341,15 @@
         width: 80vw;
         height: auto;
     }
-    #img.ritik2{
+
+    #img.ritik2 {
         position: absolute;
-        transform: translate(10vw,60vh);
+        transform: translate(10vw, 60vh);
     }
+
     #khare.ritik {
         position: absolute;
         font-size: 4vw;
-        transform: translate(10vw,10vh);
+        transform: translate(10vw, 10vh);
     }
 }
