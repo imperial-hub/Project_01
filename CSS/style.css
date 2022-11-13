@@ -1,3 +1,8 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+}
 #khantal1.vanshita1
 {
     color:white;
@@ -14,10 +19,10 @@ text-align:center;
 }
 #khantal.v_k
 {
-    color:indigo;
+    color:#9340FF;
 }
 #khare1.ritik1{
-    color: purple;
+    color: #9340FF;
     font-size: 5vw;
 }
 #khare.ritik{
@@ -35,11 +40,6 @@ text-align:center;
 .ritik_khare{
     margin-left: 1vw;
     margin-top: 2vw;
-}
-* {
-    padding: 0;
-    margin: 0;
-    font-family: 'Roboto Slab', serif;
 }
 
 #divs {
@@ -137,6 +137,17 @@ transform: translate(20vw,30vh);
 #logoplusname.aaruhi{
     position: absolute;
     transform: translate()
+}
+#heading.prajapati{
+    color:#9340FF;
+    font-size:50 ;
+}
+#paragraph.prajapati{
+    color: rgb(238, 238, 238);
+    font-size:50;
+}
+#img.prajapati{
+    width:10 ;
 }
 
 
