@@ -326,7 +326,11 @@
         padding: 0;
         margin: 0;
     }
-
+    #divs {
+        height: 100vh;
+        width: 100vw;
+        background-color: #101728;
+    }
     /* AARUHI SECTION FOR RESPOSIVE */
 
     #logoplusname.aaruhi {
