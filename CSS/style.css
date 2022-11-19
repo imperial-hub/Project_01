@@ -228,8 +228,9 @@
 }
 
 #img.prajapati {
-    height: 45vh;
     border-radius: 55px;
+    width: 80vw;
+    height: auto;
 }
 
 
@@ -344,8 +345,8 @@
     }
 
     #image.aaruhi {
-        height: 20vh;
-        width: auto;
+        width: 80vw;
+        height: auto;
     }
 
     #bt.aaruhi {
@@ -407,7 +408,8 @@
 
     #paragraph.prajapati {
         color: #ffffff;
-        font-size: 2vh;
+        font-size: 2.5vh;
+        width: 75vw;
     }
 
     #image.prajapati {
@@ -485,43 +487,44 @@
         font-size: 4vw;
         transform: translate(10vw, 10vh);
     }
-    #text.team {
-        transform: translate(5vw, 5vh);
-    }
-    
+
+
     #text.team {
         color: #FFDF2B;
         transform: translate(15vw, 5vh);
+        width: 75vw;
     }
-    
+
     .text {
         font-size: 3.5vh;
     }
+
     .upper {
         flex-direction: column;
     }
-    
+
     .lower {
         flex-direction: column;
     }
-    
+
     .box {
         border-radius: 3vh;
         text-align: center;
         width: 30vw;
         height: 20vh;
     }
-    
+
     .T_img {
         height: 10vh;
         border-radius: 20vh;
     }
-    
+
     #textboxes {
+        width: 90vw;
         display: flex;
         transform: translate(2vw, 10vh);
     }
-    
+
     .LINK {
         padding: 1vh;
         height: 3vh;
