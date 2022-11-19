@@ -243,7 +243,7 @@
 
 
 #text.team {
-    color: rgb(34, 7, 7);
+    color: rgb(0, 0, 0);
     transform: translate(30vw, 5vh);
     width: 60vw;
 }
@@ -271,7 +271,7 @@
     width: 20vw;
     height: 30vh;
     background: rgb(51, 79, 250);
-    background: linear-gradient(180deg, rgb(236, 161, 161) 22%, rgb(236, 9, 123) 100%);
+    background: linear-gradient(180deg, rgb(238, 71, 71) 22%, rgb(150, 23, 1) 100%);
 
 }
 
@@ -521,7 +521,7 @@
 
 
     #text.team {
-        color: #e63d0a;
+        color: #000000;
         transform: translate(15vw, 5vh);
         width: 75vw;
     }
