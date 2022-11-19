@@ -175,6 +175,7 @@
     font-size: 6vh;
     color: #ffffff;
 }
+
 #Always_Stay_Connected.aaruhi {
     font-size: 6vh;
     transform: translate(5vw, 35vh);
@@ -326,11 +327,13 @@
         padding: 0;
         margin: 0;
     }
+
     #divs {
         height: 100vh;
         width: 100vw;
         background-color: #101728;
     }
+
     /* AARUHI SECTION FOR RESPOSIVE */
 
     #logoplusname.aaruhi {
@@ -426,18 +429,21 @@
     }
 
 
-    
+
     #logoplusname.vyom {
         transform: translate(17vw, 10vh);
         height: 7vh;
         display: inline-flex;
     }
-    #logo.vyom{
+
+    #logo.vyom {
         height: 5vh;
     }
-    #Kinnectric.vyom{
+
+    #Kinnectric.vyom {
         font-size: 4vh;
     }
+
     #connect.vyom {
         height: 67vh;
         transform: translate(0vw, 30vh);
@@ -523,6 +529,7 @@
     }
     
     .lower {
+        margin-left: 5vw;
         width: 40vw;
         flex-direction: column;
     }
@@ -530,7 +537,7 @@
     .box {
         border-radius: 3vh;
         text-align: center;
-        width: 30vw;
+        width: 37vw;
         height: 20vh;
     }
 
@@ -542,13 +549,14 @@
     #textboxes {
         width: 90vw;
         display: flex;
-        transform: translate(5vw,10vh);
+        transform: translate(3vw, 7vh);
     }
-    divs.team
-    {
+
+    divs.team {
         width: 100vw;
         height: 100vh;
     }
+
     .LINK {
         padding: 1vh;
         height: 3vh;
