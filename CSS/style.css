@@ -58,7 +58,7 @@
 
 #divs {
     height: 100vh;
-    width: 98.5vw;
+    width: 99vw;
     background-color: #101728;
 }
 
@@ -370,13 +370,6 @@
         border-radius: 4vh;
     }
 
-    #logoplusname.vyom {
-        position: absolute;
-        transform: translate(20vw, 10vh);
-        height: 10vh;
-        display: flex;
-    }
-
     /* VANSHITA SECTION FOR RESPONSIVE */
     #mid.vanshita {
         width: 80vw;
@@ -432,6 +425,19 @@
         border-radius: 55px;
     }
 
+
+    
+    #logoplusname.vyom {
+        transform: translate(17vw, 10vh);
+        height: 7vh;
+        display: inline-flex;
+    }
+    #logo.vyom{
+        height: 5vh;
+    }
+    #Kinnectric.vyom{
+        font-size: 4vh;
+    }
     #connect.vyom {
         height: 67vh;
         transform: translate(0vw, 30vh);
@@ -512,10 +518,12 @@
     }
 
     .upper {
+        width: 40vw;
         flex-direction: column;
     }
-
+    
     .lower {
+        width: 40vw;
         flex-direction: column;
     }
 
@@ -534,6 +542,7 @@
     #textboxes {
         width: 90vw;
         display: flex;
+        transform: translate(5vw,10vh);
     }
     divs.team
     {
