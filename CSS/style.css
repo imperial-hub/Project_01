@@ -236,22 +236,21 @@
 
 #text.team {
     color: #FFDF2B;
-    width: auto;
-    position: absolute;
-    transform: translate(30vw, 10vh);
+    transform: translate(30vw, 5vh);
 }
 
 .upper {
-    display: inline-flex;
+    display: flex;
+    flex-direction: row;
 }
 
 .lower {
-    display: inline-flex;
+    display: flex;
+    flex-direction: row;
 }
 
 .text {
     font-size: 10vh;
-    text-align: center;
 }
 
 .box {
@@ -272,7 +271,7 @@
 
 #textboxes {
     color: white;
-    transform: translate(15vw, 25vh);
+    transform: translate(15vw, 10vh);
 }
 
 .LINK {
@@ -392,31 +391,35 @@
     }
 
     /* vishal prjapati section for responsive */
-    
+
     #divs.prajapati {
-        display:flexbox;
+        display: flexbox;
     }
+
     #text.prajapati {
         transform: translate(5vw, 5vh);
-   }
+    }
+
     #heading.prajapati {
         color: #9340FF;
         font-size: 5vh;
     }
-    
+
     #paragraph.prajapati {
         color: #ffffff;
         font-size: 2vh;
     }
-    #image.prajapati{
+
+    #image.prajapati {
         position: absolute;
-        transform: translate(10vw,60vh);
+        transform: translate(10vw, 60vh);
     }
+
     #img.prajapati {
         height: 20vh;
         border-radius: 55px;
     }
-    
+
     #connect.vyom {
         height: 67vh;
         transform: translate(0vw, 30vh);
@@ -481,5 +484,46 @@
         position: absolute;
         font-size: 4vw;
         transform: translate(10vw, 10vh);
+    }
+    #text.team {
+        transform: translate(5vw, 5vh);
+    }
+    
+    #text.team {
+        color: #FFDF2B;
+        transform: translate(15vw, 5vh);
+    }
+    
+    .text {
+        font-size: 3.5vh;
+    }
+    .upper {
+        flex-direction: column;
+    }
+    
+    .lower {
+        flex-direction: column;
+    }
+    
+    .box {
+        border-radius: 3vh;
+        text-align: center;
+        width: 30vw;
+        height: 20vh;
+    }
+    
+    .T_img {
+        height: 10vh;
+        border-radius: 20vh;
+    }
+    
+    #textboxes {
+        display: flex;
+        transform: translate(2vw, 10vh);
+    }
+    
+    .LINK {
+        padding: 1vh;
+        height: 3vh;
     }
 }
