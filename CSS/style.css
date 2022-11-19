@@ -69,7 +69,7 @@
 
 #logoplusname.vyom {
     position: absolute;
-    transform: translate(5vw, 5vh);
+    transform: translate(15vw, 22vh);
     height: 25vh;
     display: flex;
     color: white;
@@ -77,12 +77,12 @@
 
 
 #logo.vyom {
-    height: 5vh;
-    padding-right: 3vw;
+    height: 8vh;
+    padding: 1vh 3vw;
 }
 
-#kinnectric.vyom {
-    font-size: 6vh;
+#Kinnectric.vyom {
+    font-size: 7vh;
     color: #ffffff;
 }
 
