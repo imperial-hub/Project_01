@@ -58,7 +58,7 @@
 
 #divs {
     height: 100vh;
-    width: 100vw;
+    width: 98.5vw;
     background-color: #101728;
 }
 
@@ -231,8 +231,7 @@
 
 #img.prajapati {
     border-radius: 55px;
-    width: 80vw;
-    height: auto;
+    height: 50vh;
 }
 
 
@@ -240,6 +239,7 @@
 #text.team {
     color: #FFDF2B;
     transform: translate(30vw, 5vh);
+    width: 60vw;
 }
 
 .upper {
@@ -273,6 +273,7 @@
 }
 
 #textboxes {
+    width: 75vw;
     color: white;
     transform: translate(15vw, 10vh);
 }
@@ -529,9 +530,12 @@
     #textboxes {
         width: 90vw;
         display: flex;
-        transform: translate(2vw, 10vh);
     }
-
+    divs.team
+    {
+        width: 100vw;
+        height: 100vh;
+    }
     .LINK {
         padding: 1vh;
         height: 3vh;
